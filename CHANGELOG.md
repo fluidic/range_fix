@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.2+1
+
+- Change the repo URL.
+
 ## 0.1.2
 
 - Fix a type error which occurs in checked mode.

@@ -1,10 +1,10 @@
 name: range_fix
 description: A workaround for the Range.getClientRects bug in Chrome.
-version: 0.1.2
+version: 0.1.2+1
 authors:
 - Kwang Yul Seo <kwangyul.seo@gmail.com>
 - Fluidic Team <dev@fluidic.io>
-homepage: https://github.com/kseo/range_fix
+homepage: https://github.com/fluidic/range_fix
 
 environment:
   sdk: '>=1.0.0 <2.0.0'

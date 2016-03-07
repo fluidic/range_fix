@@ -22,4 +22,4 @@ for (final rect in rects) {
 
 Please file feature requests and bugs at the [issue tracker][tracker].
 
-[tracker]: https://github.com/kseo/range_fix/issues
+[tracker]: https://github.com/fluidic/range_fix/issues
